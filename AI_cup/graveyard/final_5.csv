@@ -1,0 +1,2 @@
+command,name,path,signal,time,avg_cycle,avg_2opt,3opt,score
+./aco_2opt_wc,fl1577,23096,Time limit,183.67s,138.55574,0.09132216837,None,3.81

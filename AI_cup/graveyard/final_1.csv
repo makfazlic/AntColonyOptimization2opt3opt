@@ -1,0 +1,4 @@
+command,name,path,signal,time,avg_cycle,avg_2opt,3opt,score
+./aco_2opt_3opt_wc,rat783,9107,Time limit,180.09s,66.73464,0.03119597743,58.752697,3.42
+./aco_2opt_3opt_wc,u1060,234498,Time limit,294.37s,142.98644,0.05176562642,113.751852,4.64
+./aco_2opt_wc,fl1577,24045,Time limit,131.17s,130.97168,0.1307844184,None,8.07

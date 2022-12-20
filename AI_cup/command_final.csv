@@ -1,0 +1,11 @@
+command,time,file,seed,iterations,points,alpha,beta,rho,q0,tau0
+./aco_2opt_3opt_wc,180,./problems/eil76.tsp,69,500,76,4,1,0.8,0.4,1.93498452012384E-05
+./aco_2opt_3opt_wc,180,./problems/kroA100.tsp,69,500,100,2,3,0.8,0.4,3.5962167799475E-07
+./aco_2opt_3opt_wc,180,./problems/ch130.tsp,69,500,130,2,3,0.9,0.1,1.01508415047607E-06
+./aco_2opt_3opt_wc,180,./problems/d198.tsp,69,500,10,4,4,0.9,0.2,2.66166274071412E-07
+./aco_2opt_3opt_wc,170,./problems/lin318.tsp,69,500,10,3,2,0.99,0.1,5.82138523121553E-08
+./aco_2opt_3opt_wc,170,./problems/pr439.tsp,69,500,54.875,4,1,0.8,0.2,3.3137732894265E-08
+./aco_2opt_3opt_wc,170,./problems/pcb442.tsp,69,500,55.25,4,3,0.8,0.2,7.31389412421494E-08
+./aco_2opt_3opt_wc,120,./problems/rat783.tsp,69,500,10,4,3,0.9,0.1,2.37518915412626E-07
+./aco_2opt_3opt_wc,100,./problems/u1060.tsp,69,500,20,3,4,0.99,0.2,6.09850624407759E-09
+./aco_2opt_wc,120,./problems/fl1577.tsp,69,500,20,3,4,0.9,0.5,4.45024499266221E-08

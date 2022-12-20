@@ -1,0 +1,11 @@
+command,name,path,signal,time,avg_cycle,avg_2opt,3opt,score
+./aco_r2opt_3opt_wc,eil76,541,Improvement limit,34.81s,17.4427,-nan,0.024604,0.56
+./aco_r2opt_3opt_wc,kroA100,21282,Improvement limit,83.13s,41.74255,-nan,0.055534,0.0
+./aco_r2opt_3opt_wc,ch130,6166,Time limit,160.14s,79.942,-nan,0.131726,0.92
+./aco_r2opt_3opt_wc,d198,15941,Time limit,160.48s,80.95849,-nan,0.451657,1.02
+./aco_r2opt_3opt_wc,lin318,43847,Time limit,172.16s,84.97273,-nan,2.140131,4.33
+./aco_r2opt_3opt_wc,pr439,109896,Time limit,175.27s,84.91534,-nan,5.109206,2.5
+./aco_r2opt_3opt_wc,pcb442,53211,Time limit,105.81s,49.73613,-nan,5.653987,4.79
+./aco_r2opt_3opt_wc,rat783,9391,Time limit,134.92s,52.72821,-nan,32.075064,6.64
+./aco_r2opt_3opt_wc,u1060,236913,Time limit,177.06s,54.45075,-nan,74.413112,5.72
+./aco_r2opt_3opt_wc,fl1577,23839,Time limit,367.64s,65.92105,-nan,253.498561,7.15
